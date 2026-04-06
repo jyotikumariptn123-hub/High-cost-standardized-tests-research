@@ -9,7 +9,7 @@ This repository contains a research paper that examines how the high cost of int
 ## Repository Contents
 
 
-- [research_paper.pdf](research_paper.pdf) — Full research paper on the high cost of standardized exams.
+- [research_paper.pdf](exam_fees_research_paper.pdf) — Full research paper on the high cost of standardized exams.
 
 - [README.md](README.md) — Overview and explanation of the research project.
 
