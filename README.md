@@ -17,10 +17,9 @@ The research particularly focuses on exams such as:
 * GMAT (Graduate Management Admission Test)
 * TOEFL (Test of English as a Foreign Language)
 * IELTS (International English Language Testing System)
-
-  <img width="864" height="1184" alt="harvard_style_campus_1" src="https://github.com/user-attachments/assets/ac2bdf16-7704-402b-84fd-5a50f388c866" /> Harvard University
-  <img width="864" height="1184" alt="prestigious_university_1" src="https://github.com/user-attachments/assets/ce45e4c7-3fd0-47ea-bff4-9d13fc58e1e2" /> Prestigious university
-  <img width="864" height="1184" alt="oxford_style_campus_1" src="https://github.com/user-attachments/assets/bbb01c97-befc-4861-9c8e-00e4f6bce080" /> Oxford University
+## Harvard University
+  <img width="864" height="1184" alt="harvard_style_campus_1" src="https://github.com/user-attachments/assets/ac2bdf16-7704-402b-84fd-5a50f388c866" /> 
+  
 
 
 
