@@ -6,6 +6,19 @@ Research paper analyzing how high fees of exams like SAT, GRE, GMAT, TOEFL, and 
 
 This repository contains a research paper that examines how the high cost of international standardized examinations creates financial barriers for middle-class students in India. Many students who aspire to study abroad must take multiple standardized tests as part of the university application process. However, the cost of these exams can be significant, especially for families with limited financial resources.
 
+## Repository Contents
+
+This repository contains the research paper and supporting materials related to the study on the financial impact of international standardized exam fees on middle-class students in India.
+
+* **paper/** – Contains the final research paper in PDF format.
+* **references/** – Includes the list of sources and references used in the research.
+* **data/** – Contains basic information and comparisons related to exam fees and costs.
+* **images/** – Charts or visual materials used to explain the data in the research.
+* **README.md** – Provides an overview and explanation of the research project.
+
+The research focuses on exams such as the SAT, GRE, GMAT, TOEFL, and IELTS, which are commonly required for international university admissions.
+
+
 ## Research Focus
 
 The study explores how the registration fees of major international examinations affect students from middle-class backgrounds. These exams are often required for admission to universities abroad or for proving English language proficiency.
