@@ -65,12 +65,29 @@ This research uses secondary data sources, including official information from t
 
 The research highlights an important issue in global education: financial accessibility. By examining the economic challenges faced by students, this study aims to encourage discussion about more inclusive testing systems and potential policy changes that could support talented students from diverse economic backgrounds.
 
+## Related Projects
+
+This research is connected with other educational projects developed by the author.
+
+### StudyJourney (Study Genie)
+
+**StudyJourney (Study Genie)** is an AI-based educational application designed to help students practice and improve their understanding of different subjects. The application generates study questions automatically based on the student's class, subject, and specific topic, helping students revise concepts effectively.
+
+GitHub Repository:
+https://github.com/jyotikumariptn123-hub/Study-Genie
+
+### Dummy Phone Research Project
+
+**Dummy Phone** is a research project focused on reducing digital distraction caused by social media among students. The concept proposes a simplified smartphone environment designed primarily for academic activities such as reading study materials, receiving educational notifications, and accessing learning tools while limiting access to distracting social media platforms.
+
+GitHub Repository:
+https://github.com/jyotikumariptn123-hub/student-digital-distraction-research
+
+
 ## Author
 
 Jyoti Kumari
 
 Independent Student Researcher
 
-## License
 
-This project is shared for educational and research purposes.
