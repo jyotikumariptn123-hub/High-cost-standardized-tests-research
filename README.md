@@ -1,2 +1,54 @@
 # High-cost-standardized-tests-research
 Research paper analyzing how high fees of exams like SAT, GRE, GMAT, TOEFL, and IELTS affect middle-class students in India.
+# The High Cost of Standardized Tests: A Barrier for India's Middle-Class Students
+
+## Overview
+
+This repository contains a research paper that examines how the high cost of international standardized examinations creates financial barriers for middle-class students in India. Many students who aspire to study abroad must take multiple standardized tests as part of the university application process. However, the cost of these exams can be significant, especially for families with limited financial resources.
+
+## Research Focus
+
+The study explores how the registration fees of major international examinations affect students from middle-class backgrounds. These exams are often required for admission to universities abroad or for proving English language proficiency.
+
+The research particularly focuses on exams such as:
+
+* SAT (Scholastic Assessment Test)
+* GRE (Graduate Record Examination)
+* GMAT (Graduate Management Admission Test)
+* TOEFL (Test of English as a Foreign Language)
+* IELTS (International English Language Testing System)
+
+  <img width="864" height="1184" alt="harvard_style_campus_1" src="https://github.com/user-attachments/assets/ac2bdf16-7704-402b-84fd-5a50f388c866" /> Harvard University
+  <img width="864" height="1184" alt="prestigious_university_1" src="https://github.com/user-attachments/assets/ce45e4c7-3fd0-47ea-bff4-9d13fc58e1e2" /> Prestigious university
+  <img width="864" height="1184" alt="oxford_style_campus_1" src="https://github.com/user-attachments/assets/bbb01c97-befc-4861-9c8e-00e4f6bce080" /> Oxford University
+
+
+
+
+## Problem Statement
+
+For many middle-class families in India, the cost of taking international standardized tests can represent a large financial burden. Students may need to pay for multiple exams or retake tests to improve their scores, increasing the overall expense. As a result, capable students may hesitate to attempt these exams due to financial concerns.
+
+## Objectives of the Research
+
+* To analyze the cost structure of major international standardized exams.
+* To understand how these costs impact middle-class students in India.
+* To examine how financial barriers influence students' decisions to pursue international education.
+* To discuss possible solutions that could improve accessibility to global educational opportunities.
+
+## Methodology
+
+This research uses secondary data sources, including official information from testing organizations, educational reports, and publicly available data regarding exam fees and international education trends.
+
+## Significance of the Study
+
+The research highlights an important issue in global education: financial accessibility. By examining the economic challenges faced by students, this study aims to encourage discussion about more inclusive testing systems and potential policy changes that could support talented students from diverse economic backgrounds.
+
+## Author
+
+Jyoti Kumari
+Independent Student Researcher
+
+## License
+
+This project is shared for educational and research purposes.
