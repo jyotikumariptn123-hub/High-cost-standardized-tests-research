@@ -13,9 +13,9 @@ This repository contains a research paper that examines how the high cost of int
 
 - [README.md](README.md) — Overview and explanation of the research project.
 
-- [References](references.md) — List of research sources
+- [References](Reference.md) — List of research sources
 
-- [Exam Fee Data](exam_fee_data.md) — Comparison of exam fees
+- [Exam Fee Data](Exam_fee_Data.md) — Comparison of exam fees
 
 This repository contains the research paper and supporting materials related to the study on the financial impact of international standardized exam fees on middle-class students in India.
 
